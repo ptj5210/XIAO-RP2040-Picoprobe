@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "board.h": "c"
+    },
+    "cmake.configureArgs": [
+        "-DPICO_BOARD = SEEED_XIAO_RP2040"
+    ],
+}

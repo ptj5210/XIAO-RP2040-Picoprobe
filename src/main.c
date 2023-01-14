@@ -37,7 +37,7 @@
 #include "led.h"
 
 // UART0 for Picoprobe debug
-// UART1 for picoprobe to target device
+// UART0 for picoprobe to target device
 
 int main(void) {
 
